@@ -220,7 +220,7 @@ nav {
             
         }
         
-} 
+}   
 @media(max-width: 415px)
 {
     .logo img{
@@ -342,7 +342,7 @@ nav {
             display: block; 
             margin-left: 200px;
             font-size: 40px;
-            margin-top: -20px;
+            margin-top: 50px;
             
         }
         #close-btn{
@@ -1043,6 +1043,12 @@ nav {
 }
 .home-galary img{
     border-radius: 10px;
+}
+.home-galary-mid-pic img{
+    margin-left: -60px;
+}
+.home-galary-right-pic img{
+    margin-left: 100px;
 }
 
 @media (max-width:768px) {
