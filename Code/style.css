@@ -164,6 +164,7 @@ nav {
     }
     .menu-bar{
         width: 100%;
+        height: auto;
         top: 70px;
         right: 0px;
         position: fixed;
